@@ -9,7 +9,7 @@
 - 🤩 I love building, automating, and tinkering with code.
 
 ## 🚀 Projects I’m proud of
-- [ABNamer](https://github.com/Purrbyte-zdy/ABNamer) & [ABNamer-dev](https://github.com/Purrbyte-zdy/ABNamer-dev): Naming things is hard, I try to make it easier!
+- [ABNamer](https://github.com/Purrbyte-zdy/ABNamer): Naming things is hard, I try to make it easier!
 - [AutoNews](https://github.com/Purrbyte-zdy/AutoNews): Playing news more automatic!
 
 ## 🌟 Fun Facts
