@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Purrbyte-zdy!
 
-![Minecraft Creeper](https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3b/Creeper_face.png)
-
 ## 🧑‍💻 About Me
 - 🎓 Student & OIer (Olympiad in Informatics enthusiast)
 - 🐍 Learning Python (with a dash of C), Python is my jam!
