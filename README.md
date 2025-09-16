@@ -9,9 +9,8 @@
 - 🤩 I love building, automating, and tinkering with code.
 
 ## 🚀 Projects I’m proud of
-- [AutoNews](https://github.com/Purrbyte-zdy/AutoNews): Making news smarter and more automatic!
 - [ABNamer](https://github.com/Purrbyte-zdy/ABNamer) & [ABNamer-dev](https://github.com/Purrbyte-zdy/ABNamer-dev): Naming things is hard, I try to make it easier!
-- [My Profile Repo](https://github.com/Purrbyte-zdy/Purrbyte-zdy): (Hey, you’re here already!)
+- [AutoNews](https://github.com/Purrbyte-zdy/AutoNews): Playing news more automatic!
 
 ## 🌟 Fun Facts
 - I’m always up for a coding challenge or a Minecraft adventure.
@@ -23,4 +22,4 @@
 
 ---
 
-_Thanks for stopping by! Drop a star on my projects if you like them, or challenge me to a Minecraft build-off!_
+_Thanks for stopping by! Drop a star on my projects if you like them!_
