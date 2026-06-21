@@ -1,18 +1,16 @@
 # 👋 Hi, I’m Purrbyte-zdy!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Purrbyte-zdy)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purrbyte-zdy)
+
 ## 🧑‍💻 About Me
 - 🎓 Student & OIer (Olympiad in Informatics enthusiast)
-- 🐍 Learning Python (with a dash of C), Python is my jam!
+- 🐍 Learning Python (with a dash of C).
 - 🕹️ Minecraft player—always ready to craft, mine, and maybe blow up a creeper or two.
 - 🤩 I love building, automating, and tinkering with code.
 
 ## 🚀 Projects I’m proud of
-NOTHING.
-
-## 🌟 Fun Facts
-- I’m always up for a coding challenge or a Minecraft adventure.
-- I may be new to Python and C, but I’m leveling up fast.
-- Favorite emoji? Probably 😺 or 🐍!
+Developing.
 
 ## 📺 Find Me Elsewhere
 - Bilibili: [Purrbyte-zdy’s Space](https://space.bilibili.com/1874781419)
